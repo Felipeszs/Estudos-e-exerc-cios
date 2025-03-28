@@ -1,2 +1,2 @@
-# Estudos-e-exerc-cios
+# Estudos-e-exercicios
 Calculadora
